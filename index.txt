@@ -1,0 +1,31 @@
+<html>
+<title>
+SZAZ's Game
+</title>
+<style>
+        
+        h1 {
+			color: rgb(0, 232, 15);
+		}
+		
+		h2 {
+            color: rgb(0, 232, 15);
+        }  
+        
+        body {
+            background-color: rgb(97, 250, 255);
+        }
+            
+        </style>
+<h1>
+<center>Your Choice</center>
+</h1>
+<h2>
+<center>Welcome to Your Choice, our interactive game where the story depends on your choices. You 
+choose one of four classes, all with their own story. There are unlimited attempts. Just go in and
+have fun!</center><br/>
+</h2>
+<h3>
+<center><a href="choice.html">Click here to play</a></center>
+</h3>
+</html>

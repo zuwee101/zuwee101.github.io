@@ -1,0 +1,9 @@
+<html>
+<title>
+Problem 1
+</title>
+You arrive at the base with your staff in hand. There are two ways to enter the base. You may enter
+from the dungeon located at the bottom, or you may enter from the top. What do you choose?<br/>
+<a href = "failure.html" style="position: absolute; top:280px; left:50px; width:200px; height:25px">Enter from the dungeon</a>
+<a href = "success.html" style="position: absolute; top:280px; left:1350px; width:200px; height:25px">Enter from the top</a>
+</html>

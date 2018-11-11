@@ -1,0 +1,9 @@
+<html>
+<h1>
+<center>YOU DIED</center>
+</h1>
+The door to the left leads to the  dungeon. In the scenario which a non-Cookie Monster enters the 
+Dungeon, the Cookie Monsters have made a failsafe, in which the captives are released for a time
+, and they kill you.<br/><br/><br/><br/><br/><br/>
+<a href = "success.html"><center>Click here to respawn</center></a> 
+</html>
