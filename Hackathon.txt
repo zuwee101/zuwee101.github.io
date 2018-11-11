@@ -1,0 +1,8 @@
+<html>
+<title>
+SZAZ's Game
+</title>
+<h1>
+Your Choice
+</h1>
+</html>
